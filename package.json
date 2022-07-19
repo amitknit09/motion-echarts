@@ -75,6 +75,6 @@
       "optional": true
     }
   },
-  "repository": "https://github.com/ecomfe/motion-echarts.git",
+  "repository": "https://github.com/amitknit09/motion-echarts.git",
   "types": "dist/index.d.ts"
 }
