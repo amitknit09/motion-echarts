@@ -1,8 +1,8 @@
 {
   "name": "motion-echarts",
-  "version": "6.2.3",
+  "version": "1.0.0",
   "description": "Vue.js component for Apache ECharts.",
-  "author": "GU Yiling <justice360@gmail.com>",
+  "author": "Amit Kanaujia <amitknit09@gmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "pnpm run docs && rimraf dist && pnpm run build:2 && pnpm run build:3 && vue-demi-switch 3",
